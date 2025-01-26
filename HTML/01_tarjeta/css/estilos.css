@@ -1,5 +1,6 @@
 h1 {
     color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 h2 {
@@ -7,7 +8,7 @@ h2 {
 }
 
 body {
-    background-color: rgb(65, 221, 156);
+    background-color: rgb(198, 236, 220);
 }
 
 p {
